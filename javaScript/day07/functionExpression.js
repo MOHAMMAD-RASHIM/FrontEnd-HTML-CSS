@@ -1,4 +1,4 @@
-let addTwoNum = function add(a, b) {
+let addTwoNum = function (a, b) {
   return a + b;
 };
 
