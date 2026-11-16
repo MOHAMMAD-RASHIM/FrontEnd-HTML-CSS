@@ -15,6 +15,7 @@ for (key in empObj) {
 
 console.log();
 console.log("Using Object.keys(empObj)");
+
 // Method 2 : Object.keys()
 console.log(Object.keys(empObj));
 
@@ -26,3 +27,5 @@ for (key of keyArr) {
 for (let i = 0; i < keyArr.length; i++) {
   console.log(keyArr[i]);
 }
+
+
